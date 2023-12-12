@@ -28,12 +28,11 @@ Navigate to the project directory:
 cd server
 ```
 Install dependencies:
-```bash
-pip freeze > requirements.txt
-```
+
 ```bash
 pip install -r requirements.txt
 ```
+### Add MySQL DataBase file in XAMPP From "DATABASE" 
 
 
 ### Run the Django Rest API
